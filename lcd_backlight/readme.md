@@ -1,4 +1,4 @@
-# <img src="./images/logo.png" alt="Logo" width="25" style="vertical-align: text-bottom;"> LCD Backlight Control Plugin for Volumio 3
+# <img src="./images/logo.png" alt="Logo" width="25" style="vertical-align: text-bottom;">   LCD Backlight Control Plugin for Volumio 3
 
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Raspberry Pi](https://img.shields.io/badge/platform-Raspberry%20Pi%203B%2B-red.svg)
