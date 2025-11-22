@@ -141,6 +141,8 @@ lcd_backlight/
 └── i18n/                      # Translations
     ├── strings_en.json        # English strings
     └── strings_sk.json        # Slovak strings
+/usr/local/bin/
+└── backlight_control.py        # Main Python skript
 ```
 
 ### Configuration Files
